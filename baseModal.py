@@ -1,0 +1,8 @@
+print("Welcome to SongMaker!")
+print("This is a simple music creation tool.")
+print("You can create, edit, and play your own songs.")
+print("Let's get started!")
+print("Type 'help' to see a list of commands.")
+print("Type 'alt+F4' to quit the program.")
+print("Enjoy making music!")
+print("Remember to save your work frequently!")
